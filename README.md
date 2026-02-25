@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites 
 
 Ensure you have **Java and Maven** installed. Check your versions using:
 
