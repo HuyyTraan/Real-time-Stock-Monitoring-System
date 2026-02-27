@@ -2,7 +2,7 @@
 
 ## Course Information
 
--   **Course**: Advanced Programming (CO2039)
+-   **Course**: Advanced Programming (CO2039) 
 -   **Project**: Real-time Stock Monitoring System
 -   **Objective**: Track stock prices in real-time and receive alerts based on predefined conditions.
 
